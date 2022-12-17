@@ -21,6 +21,7 @@ Performs automatic segmentation on videos based on color. Works by categorizing 
 2. Run the file 'segmentation.m'
 3. Mark 4 rectangular points of the object to be segmented using sequence: top left -> top right -> bottom right -> bottom left.
 E.g.:
+
 ![markings](https://user-images.githubusercontent.com/29484054/208250790-2fd1c20e-007d-47f7-b0ba-b0a8e34c5fd2.png)
 
 4. The video result is saved in the same directory.
